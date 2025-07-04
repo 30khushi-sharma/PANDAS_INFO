@@ -1,0 +1,10 @@
+No. if columns and rows
+what type of data?
+missing data??
+
+info() method
+1. no of column, rows
+2. datatype
+3. non-null
+4. column name
+5. memory useage of the data frame 
